@@ -7,8 +7,8 @@
 #include <OSCTiming.h>
 
 WiFiUDP Udp;
-char ssid[] = "TERRABOT";          //  SSID (name)
-char pass[] = "helicopter808";    // Password
+char ssid[] = "********";          //  SSID (name)
+char pass[] = "********";    // Password
 
 const unsigned int outPort = 10024;
 const unsigned int localPort = 8000;
